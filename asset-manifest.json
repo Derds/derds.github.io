@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.073c9b0a.css",
-    "main.js": "/home/static/js/main.70654bae.js",
-    "static/js/787.f09bee5e.chunk.js": "/home/static/js/787.f09bee5e.chunk.js",
-    "static/media/logo.svg": "/home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/home/index.html",
-    "main.073c9b0a.css.map": "/home/static/css/main.073c9b0a.css.map",
-    "main.70654bae.js.map": "/home/static/js/main.70654bae.js.map",
-    "787.f09bee5e.chunk.js.map": "/home/static/js/787.f09bee5e.chunk.js.map"
+    "main.css": "/derds.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/derds.github.io/static/js/main.068d2fc2.js",
+    "static/js/787.f09bee5e.chunk.js": "/derds.github.io/static/js/787.f09bee5e.chunk.js",
+    "static/media/logo.svg": "/derds.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/derds.github.io/index.html",
+    "main.073c9b0a.css.map": "/derds.github.io/static/css/main.073c9b0a.css.map",
+    "main.068d2fc2.js.map": "/derds.github.io/static/js/main.068d2fc2.js.map",
+    "787.f09bee5e.chunk.js.map": "/derds.github.io/static/js/787.f09bee5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.70654bae.js"
+    "static/js/main.068d2fc2.js"
   ]
 }
