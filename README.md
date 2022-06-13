@@ -1,7 +1,12 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Dervla O'Brien
+Portfolio site for coding, poetry and art projects.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-----------------
+# Resources used to make this site
+This is as much for my own future reference as anything
+
+- [Create React App](https://github.com/facebook/create-react-app).
+- https://github.com/gitname/react-gh-pages
 
 ## Available Scripts
 
@@ -69,7 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Dervla O'Brien
-Portfolio site for coding, poetry and art projects.
->>>>>>> ae8fb89ab7106d1f43f96d1292f90dd3eb4f7563
